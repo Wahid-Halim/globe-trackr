@@ -1,0 +1,23 @@
+.logoBox {
+  display: flex;
+  align-items: center;
+
+  gap: 1rem;
+  text-decoration: none;
+}
+
+.logo {
+  height: 4.5rem;
+}
+
+
+.logoText {
+  font-weight: bold;
+  font-size: 2.5rem;
+  color: #2e3440;
+  text-transform: uppercase;
+  letter-spacing: 0.1rem;
+  line-height: 1.2;
+  text-decoration: none;
+  transition: color 0.3s ease-in-out;
+}
